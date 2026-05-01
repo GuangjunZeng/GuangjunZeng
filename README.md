@@ -13,7 +13,7 @@
   Jia. 
 
   On a more personal note, I’m deeply grateful to every mentor who has guided me along the way, and to all the teammates and collaborators I’ve learned from — I wouldn’t be who
-  I am today without you.
+  I am today without you🌱 ✨.
 
   My long-term goal is to develop full-stack capabilities for robotics systems, from hardware and control to physical AI.
 
