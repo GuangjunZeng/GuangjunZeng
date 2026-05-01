@@ -16,6 +16,7 @@
 
   ## Interests
   Concerts and live music 🎵 | Guitar 🎸 | Singing 🎤
+  
   Life goal: travel around the world 🌍✈️
   
 
