@@ -10,9 +10,10 @@
 
   Previously, I conducted research on humanoid robots under the supervision of Prof. Zhongyu Li at CUHK.
   I also worked at **YIMU Tech**, where I contributed to contact-rich manipulation and algorithm optimization for tactile sensors✋, under the guidance of Dr. Biao
-  Jia. Also, I am honored to serve as a Organizing Committee Member for the IEEE International Conference on Universal Village, working with Professor Fang at MIT.
+  Jia. 
 
-  n a more personal note, I’m deeply grateful to every mentor who has guided me along the way.
+  On a more personal note, I’m deeply grateful to every mentor who has guided me along the way, and to all the teammates and collaborators I’ve learned from — I wouldn’t be who
+  I am today without you.
 
   My long-term goal is to develop full-stack capabilities for robotics systems, from hardware and control to physical AI.
 
