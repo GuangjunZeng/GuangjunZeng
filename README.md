@@ -2,7 +2,7 @@
  # Hi, I'm Guangjun 👋
 
   I graduated from **CUHK-Shenzhen** in 2025 with a bachelor's degree🎓.
-  During my undergraduate studies, I began my exploration in robotics🤖, focusing on robot structure design🛠️ and robot control🔁, under the supervision of Prof. Jiangfan
+  During my undergraduate studies, I began my exploration in robotics🤖, focusing on robot control🔁 and robot structure design🛠️, under the supervision of Prof. Jiangfan
   Yu at CUHK-Shenzhen.
 
   I am currently an Intern Student at **OpenDriveLab**, under the supervision of Prof. Hongyang Li at HKU.
