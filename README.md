@@ -14,7 +14,7 @@
   On a more personal note, I’m deeply grateful to every mentor who has guided me along the way, and to all the teammates and collaborators I’ve learned from — I wouldn’t be who
   I am today without you ✨.
 
-  My *long-term goal* is to develop full-stack capabilities for robotics systems, from hardware and control to physical AI.
+  My ***long-term goal*** is to develop full-stack capabilities for robotics systems, from hardware and control to physical AI.
   
   By the way, I also go by my pen name **泉菘 (Quan Song)**. “泉” represents *water* (a balance in the Five Elements), and “菘” reflects my resilient, steadfast attitude toward life 🌱.
 
