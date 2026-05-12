@@ -8,7 +8,7 @@
   My research interests focus on **humanoid-scene interaction**, especially loco-manipulation and whole-body manipulation🦿🦾.
 
   Previously, I conducted research on humanoid robots under the supervision of Prof. [Zhongyu Li](https://zyliatzju.github.io/) at CUHK.
-  I also worked at **YIMU Tech**, where I contributed to contact-rich manipulation and algorithm optimization for tactile sensors✋, under the guidance of Dr. Biao
+  I also worked at **YIMU Tech**, where I worked on contact-rich manipulation and algorithmic optimization for tactile sensing systems✋, under the guidance of Dr. Biao
   Jia. 
 
   On a more personal note, I’m deeply grateful to every mentor who has guided me along the way, and to all the teammates and collaborators I’ve learned from — I wouldn’t be who
