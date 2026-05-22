@@ -16,7 +16,7 @@
 
   My ***long-term goal*** is to develop full-stack capabilities for robotics systems, from hardware and control to physical AI.
   
-  By the way, I also go by my pen name **泉菘 (Quan Song)**. “泉” represents *water* (a balance in the Five Elements), and “菘” reflects my tenacious attitude toward life 🌱.
+  By the way, I also go by my pen name **泉菘 (Quan Song)**. “泉” represents *water* (a balance in the Five Elements), and “菘” reflects my resilience in life 🌱.
 
   ## Interests
   Concerts and live music 🎵 | Guitar 🎸 | Singing 🎤 | Rock climbing 🧗 | Watching the sunrise 🌅
