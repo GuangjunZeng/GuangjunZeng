@@ -4,7 +4,7 @@
   I graduated from **CUHK-Shenzhen** in 2025 with a bachelor's degree🎓.
   During my undergraduate studies, I began my exploration in robotics🤖, focusing on robot control🔁 and robot structure design🛠️, under the supervision of Prof. [Jiangfan Yu](https://www.imlyu.com/team) at CUHK-Shenzhen.
 
-  I am currently a Student at **OpenDriveLab**, under the supervision of Prof. [Hongyang Li](https://opendrivelab.com/team#hku) at HKU.
+  I am currently at **OpenDriveLab**, under the supervision of Prof. [Hongyang Li](https://opendrivelab.com/team#hku) at HKU.
   My research interests focus on **humanoid-scene interaction**, especially loco-manipulation and whole-body manipulation🦿🦾.
 
   Previously, I conducted research on humanoid robots under the supervision of Prof. [Zhongyu Li](https://zyliatzju.github.io/) at CUHK.
