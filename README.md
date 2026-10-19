@@ -5,7 +5,7 @@
   During my undergraduate studies, I began my exploration in robotics🤖, focusing on robot control🔁 and robot structure design🛠️, under the supervision of Prof. [Jiangfan Yu](https://www.imlyu.com/team) at CUHK-Shenzhen.
 
   I am currently at **HKU OpenDriveLab**, under the supervision of Prof. [Hongyang Li](https://opendrivelab.com/team#hku) at HKU.
-  My research interests focus on **humanoid-scene interaction**, especially loco-manipulation and whole-body manipulation🦿🦾.
+  My research interests focus on **humanoid-scene interaction**, especially loco-manipulation manipulation🦿🦾.
 
   Previously, I conducted research on humanoid robots under the supervision of Prof. [Zhongyu Li](https://zyliatzju.github.io/) at CUHK.
   I also worked at **YIMU Tech**, where I worked on contact-rich manipulation with visuotactile guidance✋, under the guidance of Dr. Biao
