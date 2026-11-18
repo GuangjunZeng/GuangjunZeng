@@ -25,7 +25,7 @@
   
 
   ## How to Reach Me
-  - Email: [guangjunzeng@link.cuhk.edu.cn]
+  - Email: [guangjunzeng@connect.hku.hk] 
   - RedNote: https://www.xiaohongshu.com/user/profile/6127169c0000000001005a36
     
 
